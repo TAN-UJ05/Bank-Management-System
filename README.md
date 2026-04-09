@@ -326,7 +326,3 @@ This project is licensed under the **MIT License**.
 
 **Made with ❤️ using Spring Boot and PostgreSQL.**
 ```
-
----
-
-You can save this as `README.md` in the root of your project folder. It matches the style and depth of the Student Management System example while accurately describing your Bank Management System.
