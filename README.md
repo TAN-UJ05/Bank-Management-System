@@ -105,7 +105,6 @@ Bank-Management-System/
 │
 ├── 📄 pom.xml                          # Maven build configuration
 ├── 📄 README.md                        # Project documentation
-├── 📄 .gitignore                       # Git ignore rules
 │
 ├── 📁 src/main/java/com/bank/management/
 │   │
@@ -325,4 +324,3 @@ This project is licensed under the **MIT License**.
 ---
 
 **Made with ❤️ using Spring Boot and PostgreSQL.**
-```
